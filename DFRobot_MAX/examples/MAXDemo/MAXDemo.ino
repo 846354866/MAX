@@ -12,7 +12,7 @@
  * @date  2016-09-22
  */
 #include <DFRobot_MAX.h>
-#include <MsTimer2.h>
+//#include <MsTimer2.h>
 #include <Metro.h>
 #include <GoBLE.h>
 
