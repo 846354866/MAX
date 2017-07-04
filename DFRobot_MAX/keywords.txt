@@ -1,0 +1,52 @@
+#######################################
+# Syntax Coloring Map For Grove - Serial LCD GRB BackLight
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+DFRobot_MAX	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+buttonValue 		KEYWORD2
+rgbLed				KEYWORD2
+servoControl		KEYWORD2
+advance				KEYWORD2
+retreat				KEYWORD2
+swerve				KEYWORD2
+stopMotor			KEYWORD2
+clearScreen			KEYWORD2
+setLuminance		KEYWORD2
+setColor			KEYWORD2
+displayEmoticons	KEYWORD2
+showCustomEmoticons	KEYWORD2
+showFace			KEYWORD2
+customFace			KEYWORD2
+playSound			KEYWORD2
+setVolume			KEYWORD2
+loopPlay			KEYWORD2
+stopEffectPlay		KEYWORD2
+ledOpen				KEYWORD2
+ledClose			KEYWORD2
+lineLED				KEYWORD2
+startLightSensor	KEYWORD2
+stopLightSensor		KEYWORD2
+readLeftBrightness	KEYWORD2
+readRightBrightness	KEYWORD2
+lightValue			KEYWORD2
+readLeftLine		KEYWORD2
+readMiddleLine		KEYWORD2
+readRightLine		KEYWORD2
+lineValue			KEYWORD2
+startUltrasound		KEYWORD2
+stopUltrasound		KEYWORD2
+distanceValue		KEYWORD2
+patrolValue			KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+I2C_ADDRESS	LITERAL1
